@@ -82,8 +82,8 @@
 
 
 //lOGICAL operator
- const isStudent = true;
- const hasID = false; 
-console.log(isStudent && hasID);
-console.log(isStudent || hasID);
-console.log(!isStudent);
+//  const isStudent = true;
+//  const hasID = false; 
+// console.log(isStudent && hasID);
+// console.log(isStudent || hasID);
+// console.log(!isStudent);
